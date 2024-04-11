@@ -1,0 +1,23 @@
+Compound operators/short hand operators:
+    Helps us perform same calculations by writing shorter code.
+    +=, -=, *=, /=, %=
+
+Type casting:
+    Is converting the data from one type to another.
+
+Widening casting (implicit):
+byte -> short -> int -> long -> float -> double
+
+Narrowing casting (Explicitly done):
+double -> float -> long -> int -> short -> byte
+
+Relational Operators:
+    Help us compare things.
+    == (equal to)
+    != (help us to check if two variables do not contain same information)
+    >
+    <
+    >=
+    <=
+
+If else statements:

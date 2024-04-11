@@ -1,0 +1,25 @@
+Main method - main + enter
+"FirstProgram" - is "class"
+What's in the class - is method
+Rules:
+1) We can't use the same names for variables in the same class.
+2) We can't have spaces in the names of the variables.
+3) Variable names can't start with numbers and special characters.
+4) Every line must end with a bracket or semicolon.
+
+!Names of classes always start from upper case.
+!Packages, methods and variables start with lowercase character.
+
+Notes:
+Single line comments: //
+Multiline comment: /*    */
+
+//This is single line comment.
+
+/*
+This is multiple line comment
+*/
+
+If i want everything in the same lina i need to use: print
+if different lines: println
+

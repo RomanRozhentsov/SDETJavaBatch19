@@ -1,0 +1,22 @@
+package org.example.class2;
+
+public class IfStatements {
+    public static void main(String[] args) {
+
+        // If statements = performs a block of code if it's condition evaluates to be true;
+        int age = 27;
+
+        if(age>=74) {
+            System.out.println("You are an adult!");
+        }
+        else if(age>=27) {
+            System.out.println("Ok Boomer!");
+        }
+        else if(age>=13) {
+            System.out.println("You are a teenager!");
+        }
+        else {
+            System.out.println("You are not an adult!");
+        }
+    }
+}

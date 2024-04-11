@@ -1,0 +1,17 @@
+Limitation of Switch Statement:
+    - The Switch Statement can only check for equality.
+    This means that the other relational operators such
+    as greater than are rendered unusable in a case.
+    Example:
+    case k>=20: - not Allowed;
+    -Logical operators cannot be used with switch statement.
+    -Primitive types: boolean, float, double, long
+    cannot be used as an argument in switch ();
+
+Loops in programming:
+    Loops help us execute a block of code again and again
+    until a condition is met. Once the condition is met
+    loop stops.
+
+Why we should use loops?
+

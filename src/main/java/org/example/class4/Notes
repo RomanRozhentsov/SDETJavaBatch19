@@ -1,0 +1,11 @@
+NESTED IF CONDITION
+A nested if statements is an if statement inside another if statement.
+We use nested if when we need to make decision based on several
+conditions that are dependent on each other.
+
+We can double click inside any if condition to highlight
+all the code under that condition.
+
+Scanner class:
+    Scanner class is used to take the input of the user from the keyword.
+    

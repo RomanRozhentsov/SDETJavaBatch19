@@ -1,0 +1,28 @@
+Classes:
+    Classes can have 2 main things:
+    1) Variables;
+    2) Methods;
+
+1- Variables:
+    instance variables:
+    int var1;
+    String var2;
+2- Methods:
+    void method1(parameters){
+        body of method
+    }
+
+    int method2(parameters){
+        body of method
+        return 0;
+    }
+
+Class should be define as a single entity;
+For Example i can have class cals person, this class
+can contain a name or an age but not weather (For Example);
+We use classes to create objects of our classes;
+
+Java is Object Oriented Programming Language;
+Object - Properties and Behavior;
+
+In Java if i want to create an object first i have crate a class;

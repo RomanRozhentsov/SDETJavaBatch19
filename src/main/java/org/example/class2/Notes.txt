@@ -1,0 +1,13 @@
+String concatenation:
+    String means text in programming.
+    String concatenation allows us to join two strings together.
+String is non-primitive data type that that is used to store
+multiple characters in a variable.
+
+Compound Operators:
+Operator:       Example:        Equivalent:     Description:
++=              a+=4            a = a + 4       Add 4 to a
+-=              b-=4            b = b - 4       Subtract 4 from b
+*=              c*=             c = c * 4       Multiply c times 4
+/=              d/=             d = d / 4       Divide d by 4
+%=              e%=             e = e % 4       The integer remainder of e divided by 4

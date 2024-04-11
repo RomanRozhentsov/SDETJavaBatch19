@@ -1,0 +1,47 @@
+Scanner Class in Java:
+    Scanner is a class like the classes that we create,
+    but it is specially designed so that others can use it.
+    This class has a lot of methods which can help us take the
+    input from the keyboard.
+
+When should we use Switch statements:
+
+    We should use switch when we are checking the same variable
+    against multiple values and for each value we want to do something different;
+
+Logical operators:
+    Logical operators help us combine multiple conditions;
+    There are 3 logical operators in Java:
+
+    1) && - AND
+    2) || - OR
+    3) ! - NOT
+
+    NOT (!):
+    NOT operator basically reverse boolean value;
+
+    OR (||):
+    As long as one condition is true - all part is true;
+    Logical Or helps us to combine multiple boolean conditions in a way
+    that when one condition is true the overall result is a true;
+
+    AND (&&):
+    Logical AND Helps us combine the conditions in a way that we only get an
+    overall true when all the conditions are true;
+
+Loops:
+    Loops help us repeat a block of code as long as a condition is true;
+Why should we use loops:
+    Loops help us reduce duplicate code;
+Type of loops:
+    1) While Loop;
+    2) Do while;
+    3) For Loop;
+When we should use the While Loop:
+    When we don't know the number of iterations in advance its better if we
+    use While Loop;
+    For Loop is better when we know the number of iterations in advance;
+
+
+
+
